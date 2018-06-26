@@ -1,8 +1,11 @@
 {
   "name": "slava-ukraine",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Glory to Ukraine",
   "main": "index.js",
+  "engines": {
+    "node": ">=7.9.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
