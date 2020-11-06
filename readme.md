@@ -9,5 +9,7 @@ import { glory } from 'slava-ukraine/lib/glory'
 
 // ...
 
-glory()
+const gloryHeroes = glory()
+
+gloryHeroes()
 ```
